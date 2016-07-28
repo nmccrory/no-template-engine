@@ -1,0 +1,9 @@
+body{
+	font-weight:200;
+	font-family: arial;
+}
+.wrapper {
+	width:100%;
+	text-align:center;
+	padding: 20vh;
+}
